@@ -15,7 +15,7 @@ fetches if the pickle file is availale, the image is directly read from there.
 
 ## Usage
 
-Helpful to get familiar with the dataset by going through some of the jupyter notebooks [here] (https://github.com/mdeff/fma#code)
+Helpful to get familiar with the dataset by going through some of the jupyter notebooks [here](https://github.com/mdeff/fma#code)
 
 Also look at `usage.py` for reading a track and generating a mel-spectrogram
 
@@ -31,7 +31,7 @@ Install PyTorch according to the directions at the
 and CUDA setup. 
 
 In addition following libraries are needed -
-* [Librosa] (https://github.com/librosa/librosa)
+* [Librosa](https://github.com/librosa/librosa)
 
 ## References
 
